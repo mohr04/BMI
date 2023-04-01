@@ -5,7 +5,7 @@ st.title('BMI')
 weight = st.number_input("What's your weight (kg)", step =1)
 height = st.number_input("What's your height (meters)")
 
-st.camera_input("cheers")
+#st.camera_input("cheers")
 
 
 
